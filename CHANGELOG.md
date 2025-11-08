@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/heavywater-dev/structurizr-exporter/compare/v1.0.1...v1.0.2) (2025-11-08)
+
+
+### Bug Fixes
+
+* chromium browser install ([#6](https://github.com/heavywater-dev/structurizr-exporter/issues/6)) ([676d8b0](https://github.com/heavywater-dev/structurizr-exporter/commit/676d8b07426da3b3dca0e4df0d5840be8ef90f4b))
+
 ## [1.0.1](https://github.com/heavywater-dev/structurizr-exporter/compare/v1.0.0...v1.0.1) (2025-11-08)
 
 
