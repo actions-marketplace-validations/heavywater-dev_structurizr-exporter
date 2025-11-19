@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/heavywater-dev/structurizr-exporter/compare/v1.0.3...v1.0.4) (2025-11-19)
+
+
+### Code Refactoring
+
+* pipelines ([#8](https://github.com/heavywater-dev/structurizr-exporter/issues/8)) ([5efb13d](https://github.com/heavywater-dev/structurizr-exporter/commit/5efb13dcb122de71eb665aeb92527dd1ca51acec))
+
 ## [1.0.3](https://github.com/heavywater-dev/structurizr-exporter/compare/v1.0.2...v1.0.3) (2025-11-08)
 
 
